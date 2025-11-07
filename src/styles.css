@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+header, footer {
+  background-color: #1976d2;
+ color: white;
+ text-align: center;
+ padding: 15px;
+ }
+
+ .content {
+     margin: 20px;}
